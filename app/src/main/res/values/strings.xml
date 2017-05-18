@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ManejoMemoria</string>
+    <string name="titulo">Manejo de Memoria</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="boton_guardar">Guardar Archivo</string>
+    <string name="hint_correo">Correo</string>
+    <string name="boton_guardar_preferencia">Guardar Preferencia</string>
+    <string name="boton_mostrar_preferencia">Mostrar Preferencia</string>
+</resources>
